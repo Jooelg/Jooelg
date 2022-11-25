@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Joel A. Isla [Front-End Developer]
 
 ```javascript
-const thai = {
+const Joel = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components],
