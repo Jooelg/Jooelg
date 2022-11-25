@@ -4,7 +4,7 @@
 const Joel = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components],
+  tools: [React, Redux, SCSS, Boostrap, Materialice, Bulma],
  challenge: "I am learning day by day a little more"
 }
 ```
