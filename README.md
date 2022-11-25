@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Joel A. Isla [Front-End Developer]
 
-<!--
-**Jooelg/Jooelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components],
+ challenge: "I am learning day by day a little more"
+}
+```
 
-Here are some ideas to get you started:
+This is my best project at this moment [E-Commerce](https://jooelg.github.io/react-ECommerce/#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/joel-andr%C3%A9s-isla-386624186/)
