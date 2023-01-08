@@ -9,7 +9,7 @@ const Joel = {
 }
 ```
 My ultimate Projects with React
-[E-Commerce](https://jooelg.github.io/react-ECommerce/#/)
+[E-Commerce](https://jooelg.github.io/react-ECommerce/#/)  &&
 [PokeAPI](https://jooelg.github.io/PokeAPI/)
 
 [LinkedIn](https://www.linkedin.com/in/joel-andr%C3%A9s-isla-386624186/)
