@@ -8,7 +8,7 @@ const Joel = {
  challenge: "I am learning day by day a little more"
 }
 ```
-My Ultimate Proyects with React
+My ultimate Projects with React
 [E-Commerce](https://jooelg.github.io/react-ECommerce/#/)
 [PokeAPI](https://jooelg.github.io/PokeAPI/)
 
